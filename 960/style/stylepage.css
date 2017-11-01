@@ -1,0 +1,43 @@
+
+h1 {
+    text-align: center;
+    color: plum;
+    font-family: verdana;
+    font-size: 60px;
+    text-decoration: underline;
+    text-decoration-color: fuchsia;
+    border: 3px solid powderblue;
+    padding: 30px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 3;
+    padding: 0;
+    position: relative;
+    left: 280px;
+    border: dashed;
+    border-color: plum;
+    background-color: #f1f1f1;
+}
+
+.container_12 {
+
+    background: #ededed;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    line-height: 250px;
+    height: 100%;
+    border: dashed;
+    border-right-color:black;
+    border-left-color:  black;
+    border-top-color: plum;
+    border-bottom-color: plum;
+}
+
+.photos {
+    width: 100%;
+    height: 200px;
+
+}
